@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Akash's URL Saver",
+  "version": "1.0",
+  "permissions": ["tabs", "storage"],
+  "action": {
+    "default_popup": "extension.html",
+    "default_icon": "icons8-chrome-48.png"
+  }
+}
